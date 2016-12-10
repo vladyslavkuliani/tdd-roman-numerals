@@ -30,9 +30,6 @@ In today's lab we will be creating a Converter that takes in a base 10 integer a
 | 9 | "IX" |
 | 10 | "X" |
 
-To get started, let's watch a ~10 minute demonstration of Test Driven Development (TDD): [Roman Numeral Kata](https://www.youtube.com/v/983zk0eqYLY?start=394&end=953).
-
-> What's surprising about the speakers approach to writing code and passing tests? (Pay special attention to the way he cheats!) 
 
 ## Test Driven Development
 Test Driven Development can be thought of as a 3 step processs described as "Red, Green, Refactor":
